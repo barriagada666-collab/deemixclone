@@ -1,0 +1,6 @@
+{
+  "name": "Deemix - Lossless Music Downloader & Audiophile Manager",
+  "description": "High-performance lossless music downloader, Deezer/Spotify/Apple Music link converter, FLAC/320kbps tagger, batch queue manager, and built-in Hi-Fi audio player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
